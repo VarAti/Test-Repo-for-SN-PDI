@@ -1,0 +1,17 @@
+.DS_Store
+.now/
+dist/
+node_modules/
+target/
+*.tsbuildinfo
+.jest_cache
+
+# Local credentials and environment configuration
+.now-sdk/
+.env
+.env.*
+!.env.example
+.npmrc
+
+# Local logs
+*.log
